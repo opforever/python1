@@ -1,0 +1,6 @@
+{
+  "name": "Python Code Playground",
+  "description": "A serene, beginner-friendly Python playground with real-time execution, interactive terminal, and standard library support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
